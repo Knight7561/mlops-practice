@@ -1,0 +1,1 @@
+Contains data files downloaded from NYC Taxi data. Downlaoded in parquet file format and used as source for py files outside the folder
